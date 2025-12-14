@@ -65,13 +65,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniel1837657&theme=github_dark" />
 </div>
 
-### ⏱ Streak Stats
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel1837657&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF"/>
-  </a>
-</div>
-
 ### 📈 Activity Graph
 <div align="center">
   <a href="https://github.com/Daniel1837657/github-readme-activity-graph">
@@ -105,7 +98,7 @@
   </a>
 </p>
 
-<h3 align="center">In every algorithm lies a spark — not of silicon, but of the dreams we weave into the future</h3>
+<h3 align="center">Good code is simple, useful, and made to last.</h3>
 
 ---
 
