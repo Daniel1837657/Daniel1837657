@@ -56,6 +56,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+#### 👨‍💻 IDE
+![Apache NetBeans](https://custom-icon-badges.demolab.com/badge/Apache%20NetBeans-0078d7.svg?logo=netbeans&logoColor=white)
+![Eclipse](https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white)
+
 #### 💻 Code Editor
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
@@ -89,7 +93,7 @@
  
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel1837657&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniel1837657&theme=react-dark)](https://github.com/ashutosh0071/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
@@ -129,4 +133,4 @@
 
 Credit: [Daniel Perdomo Hernández - Daniel1837657](https://github.com/Daniel1837657)
 
-Last Edited on: 21/10/2025
+Last Edited on: 31/12/2025
