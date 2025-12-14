@@ -68,13 +68,13 @@
 ### ⏱ Streak Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel1837657&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Daniel1837657&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF"/>
   </a>
 </div>
 
 ### 📈 Activity Graph
 <div align="center">
-  <a href="https://github.com/ashutosh0071/github-readme-activity-graph">
+  <a href="https://github.com/Daniel1837657/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniel1837657&theme=react-dark" />
   </a>
 </div>
