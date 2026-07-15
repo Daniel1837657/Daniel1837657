@@ -72,11 +72,6 @@
   </a>
 </div>
 
-### 📊 Most Used Language
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel1837657&show_icons=true&locale=en&layout=compact&theme=radical" />
-</div>
-
 ---
 
 <h3 align="center">
